@@ -8,10 +8,10 @@ Final-year IT & Management undergraduate at the University of Moratuwa, Sri Lank
 - 📫 Reach me: shashiniirathnayaka@gmail.com | [LinkedIn](https://linkedin.com/in/shashini-rathnayaka-42836a286)
 
 #### Tech Stack
-**Languages:** Dart, JavaScript, Python, Java, C
-**Frameworks:** Flutter, React.js, Node.js, Express.js
-**Databases:** PostgreSQL, MySQL, MongoDB
-**Tools:** Git, GitHub, Firebase, Postman
+- **Languages:** Dart, JavaScript, Python, Java, C
+- **Frameworks:** Flutter, React.js, Node.js, Express.js
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools:** Git, GitHub, Firebase, Postman
 
 #### Featured Projects
 - 🎟️ [QR Code-Based Digital Ticketing System](https://github.com/ShashiniRathnayaka/ticket_tap) — Full-stack mobile ticketing app (Flutter, Node.js, React)
